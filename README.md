@@ -8,8 +8,16 @@ Reproductor flotante para ver los partidos que abres desde la página, en una ve
 
 | Sistema | Descarga |
 |---|---|
-| **Mac** (macOS 13 o más nuevo, Apple Silicon e Intel) | [**GNZPlayer.pkg**](https://github.com/gnz479/-gnzplayer/releases/latest/download/GNZPlayer.pkg) |
-| **Windows** 10 / 11 (64 bits) | [**GNZPlayer-Setup.exe**](https://github.com/gnz479/-gnzplayer/releases/latest/download/GNZPlayer-Setup.exe) |
+| **Mac**
+1. Abre `GNZPlayer.pkg`. macOS mostrará **"No se abrió GNZPlayer.pkg"** (pasa con cualquier app que no
+   se baja de la App Store). Dale **Listo** — *no* "Mover al basurero".
+2. Ve a **Configuración del Sistema → Privacidad y seguridad**, baja hasta **Seguridad** y dale
+   **"Abrir de todos modos"** junto a *GNZPlayer.pkg*. Confirma con tu contraseña.
+3. Sigue el asistente. Al terminar, GNZ Player se abre solo y ya puedes volver a la página y darle a **Ver**.
+
+Solo se hace la primera vez: las actualizaciones las instala la propia app.
+
+**Windows** 10 / 11 (64 bits) | [**GNZPlayer-Setup.exe**](https://github.com/gnz479/-gnzplayer/releases/latest/download/GNZPlayer-Setup.exe) |
 | Windows, versión portátil (sin instalar) | [GNZPlayer-portable.zip](https://github.com/gnz479/-gnzplayer/releases/latest/download/GNZPlayer-portable.zip) |
 
 ## Instalar
